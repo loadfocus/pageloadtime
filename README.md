@@ -1,7 +1,7 @@
 Performance testing and measuring of page load time
 ===================================================
 
-Performance testing and measuring  the page load time of web aplications using PhantomJS and Google charts
+Performance testing and measuring  the page load time of web applications using PhantomJS and Google charts
 
 
 What can these scripts measure:
